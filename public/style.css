@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-body, .column, .row{
+body, form, .column, .row{
   display: flex;
   flex-direction: column;
   justify-content: center;
