@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+
+body, .column, .row{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Info Table */
+table, th, tr, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
